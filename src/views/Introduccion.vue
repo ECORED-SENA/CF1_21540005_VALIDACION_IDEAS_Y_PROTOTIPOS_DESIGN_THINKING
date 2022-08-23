@@ -12,7 +12,7 @@
     p.mb-5 El <em>Design Thinking</em> tiene como propósito principal abordar problemas complejos para la búsqueda de soluciones innovadoras centradas en las personas; y hace parte del conjunto de metodologías ágiles que ayudan a las empresas y sus colaboradores a detectar nuevas oportunidades reduciendo la incertidumbre y el riesgo al fracaso como principio fundamental. 
 
     .row.mb-3
-      .col-12.col-md-2(data-aos="fade-right")
+      .col-12.col-md-2.mb-3.mb-md-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/intro/img1.png', alt='Texto que describa la imagen')
       .col-12.col-md-10(data-aos="fade-left")
@@ -28,9 +28,8 @@
 
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Z9xcwyXfgVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-  
 
 
 

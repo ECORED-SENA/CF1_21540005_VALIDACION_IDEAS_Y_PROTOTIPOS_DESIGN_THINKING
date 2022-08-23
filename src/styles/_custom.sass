@@ -125,6 +125,58 @@
     font-weight: 400
   &_15
     background-color: #D1EFF2
+  &_16
+    background-color: #DEECFB
+    border-top-left-radius: 10px
+    border-bottom-left-radius: 10px
+    @media screen and (max-width: 420px)
+      border-radius: 10px
+  &_17
+    background-color: #FFD7EC
+    border-top-right-radius: 10px
+    border-bottom-right-radius: 10px
+    @media screen and (max-width: 420px)
+      border-radius: 10px
+  &_18
+    background-color: white
+  &_19
+    background-image: url("../assets/curso/tema1/fondo8.svg")
+    background-repeat: no-repeat
+    @media screen and (max-width: 420px)
+      background-color: #DEECFB
+      border-radius: 10px
+      
+  &_20
+    background-color: #A2CAF4 !important
+    border-top: none !important
+    th 
+      border-color: #AFAFAF
+  &_21
+    border: 1px solid #AFAFAF
+  &_22
+    border-color: #AFAFAF !important
+  &_23
+    background-color: #F6F6F6
+  &_24
+    background-color: #D1EFF2
+    &::before
+      background-color: #00A6B7
+  &_25
+    background: rgb(71,149,233);
+    background: linear-gradient(180deg, rgba(71,149,233,1) 0%, rgba(0,166,183,1) 100%);
+  &_26
+    .slyder__btn
+      background-color: #FFD150
+  &_27
+    background-color: #FFD7EC
+  &_28
+    background-color: #E7EBF1
+  &_29
+    background: rgb(222,236,251);
+    background: linear-gradient(180deg, rgba(222,236,251,1) 0%, rgba(255,255,255,1) 100%)
+    border-radius: 10px
+    
+      
 //FONDOS COMPLETOS DE CONTENIDO//
 .bg_grad-01
   position: relative
@@ -188,20 +240,201 @@
     background-size: contain
     @media screen and (max-width: 420px)
       background-size: cover 
+.bg_grad-05
+  position: relative
+  .row, p, h2, .titulo-sexto, .slyder-f
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -20px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 4rem)  
+    background-image: url("../assets/curso/tema1/fondo6.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-06
+  position: relative
+  .row, p, h2, .titulo-sexto, .slyder-f
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 
+    top: -20px
+    left: -11px
+    width: calc(100% + 1.4rem)
+    height: 100%  
+    background-image: url("../assets/curso/tema1/fondo7.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-07
+  position: relative
+  .row, p, h2, .titulo-sexto, .slyder-f
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -20px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 3rem)  
+    background-image: url("../assets/curso/tema1/fondo9.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-08
+  position: relative
+  .row, p, h2, .titulo-sexto, .slyder-f
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 6rem)  
+    background-image: url("../assets/curso/tema2/fondo1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-09
+  position: relative
+  .row, p, h2, .titulo-sexto, .slyder-f
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 7rem)  
+    background-image: url("../assets/curso/tema2/fondo2.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-10
+  position: relative
+  .row, p, h2, .titulo-segundo
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -48px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 13rem)
+    background-image: url("../assets/curso/tema3/fondo1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-11
+  position: relative
+  .row, p, h2, .titulo-segundo
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -20px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 5rem)
+    background-image: url("../assets/curso/tema3/fondo2.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-12
+  position: relative
+  .row, p, h2, .titulo-segundo
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: -48px
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 6rem)
+    background-image: url("../assets/curso/tema3/fondo3.svg")
+    background-repeat: no-repeat
+    background-size: cover
+    
 //POSICION EN PANTALLA//
 .pst
   position: absolute
   top: 20px
   left: 20px
   @media screen and (max-width: 420px)
-    top: -8px
-    left: -33px
+    top: 20px
+    left: 23px
   &_1
     position: absolute
     bottom: 16px
     left: 95%
     @media screen and (max-width: 420px)
       bottom: 16px
-      left: -10px
+      left: 88%
+  &_2
+    .slyder-f__btn
+      i
+        background-color: #FFD150
+        border-radius: 50%
+        font-size: 2rem
+        padding: 1rem
+        @media screen and (max-width: 420px)
+          font-size: 1rem
+        
+  &_3
+    width: 94%
+    margin-top: 24px
+    margin-left: 4%
+    @media screen and (max-width: 420px)
+      margin-left: 0
+      
+  &_4
+    position: absolute
+    top: 0
+    left: 25%
+    width: 400px
+    @media screen and (max-width: 420px)
+      bottom: 16px
+      left: 3% !important
+      width: 350px
+    @media screen and (max-width: 992px)
+      left: 15%
+  &_5
+    font-size: 7px
+    top: 7px !important
+//CLASES MODIFICADAS//
+.bloque-texto-a:before
+  @media screen and (max-width: 420px)
+    top: 50%
+    left: 0
+    
+
+///////////// CUSTOM LINEA DE TIEMPO D
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #DEECFB !important
+      color: $color-sistema-texto
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #DEECFB
+
+/// non selected
+.linea-tiempo-d__item.row
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #E7EBF1
+    .linea-tiempo-d__item__dots:after
+      border-left: 4px dotted #E7EBF1 !important
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #E7EBF1
+        
+        
 
     
