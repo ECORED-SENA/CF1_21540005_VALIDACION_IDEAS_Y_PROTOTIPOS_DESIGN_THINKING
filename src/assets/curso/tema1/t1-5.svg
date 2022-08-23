@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="49" viewBox="0 0 43 49">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.712" cy="0.285" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.13" stop-color="#fefef8"/>
+      <stop offset="1" stop-color="#ffa8d9"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_155241" data-name="Grupo 155241" transform="translate(-285 -1711)">
+    <rect id="Rectángulo_44523" data-name="Rectángulo 44523" width="31" height="42" transform="translate(285 1718)" fill="#a2caf4"/>
+    <circle id="Elipse_5471" data-name="Elipse 5471" cx="12" cy="12" r="12" transform="translate(304 1711)" fill="url(#radial-gradient)"/>
+    <path id="Trazado_596388" data-name="Trazado 596388" d="M-8083.821-9962.035l18.339,18.339" transform="translate(8386.701 11698.035)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Trazado_596389" data-name="Trazado 596389" d="M-8083.821-9962.035l18.339,18.339" transform="translate(8378.652 11697.035)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Trazado_596390" data-name="Trazado 596390" d="M-8083.821-9962.035l13.762,13.762" transform="translate(8380.941 11706.205)" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>

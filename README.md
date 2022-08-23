@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Validación de ideas y prototipos con Design Thinking**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_21540005_VALIDACION_IDEAS_Y_PROTOTIPOS_DESIGN_THINKING/](https://ecored-sena.github.io/CF1_21540005_VALIDACION_IDEAS_Y_PROTOTIPOS_DESIGN_THINKING/)
 
 #
 

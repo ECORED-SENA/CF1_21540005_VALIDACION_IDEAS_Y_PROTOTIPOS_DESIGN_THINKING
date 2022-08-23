@@ -3,9 +3,9 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero.colr
         span 2
-      h1 Titulo de primer nivel
+      h1 Fase de validación o testeo
 
 </template>
 
