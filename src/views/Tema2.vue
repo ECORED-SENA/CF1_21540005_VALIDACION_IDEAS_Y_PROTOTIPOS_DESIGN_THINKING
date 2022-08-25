@@ -7,7 +7,7 @@
         span 2
       h1 Fase de validación o testeo
     
-    p La fase final de la metodología de Design Thinking es la fase de validación que tiene como objetivo validar o testear si la idea que se ha desarrollado obtiene la aceptación deseada del público objetivo. Se trata de verificar con la realidad si lo construido tendrá el impacto esperado.
+    p La fase final de la metodología de <em>Design Thinking</em> es la fase de validación que tiene como objetivo validar o testear si la idea que se ha desarrollado obtiene la aceptación deseada del público objetivo. Se trata de verificar con la realidad si lo construido tendrá el impacto esperado.
     .bg_grad-08
       p.mb-5 Validar va mucho más allá de mostrar al usuario el producto o servicio, pues implica un ejercicio de escucha activa y empática hacia el usuario sin interferencia de ideas y prejuicios.
 
@@ -124,7 +124,7 @@
           .col-12.col-lg-11.d-flex.align-items-center
             div
               h4.mb-0 Test de usuario
-              p.mb-0 Los test de usuario son comúnmente utilizados en productos digitales y sirven para comprobar si el prototipo cumple con las expectativas del usuario y obtener reacciones y comentarios sobre el mismo, es posible realizarlo en cualquier tipo de fidelidad del prototipo, pues busca apegar a otra de las premisas del <em>Design Thinking</em> en su etapa de prototipado, equivocarse rápido y barato.
+              p.mb-0 Los test de usuario son comúnmente utilizados en productos digitales y sirven para comprobar si el prototipo cumple con las expectativas del usuario y obtener reacciones y comentarios sobre el mismo, es posible realizarlo en cualquier tipo de fidelidad del prototipo, pues busca apegar a otra de las premisas del <em>Design Thinking</em> en su etapa de prototipado, <em>equivocarse rápido y barato</em>.
     
     separador
 

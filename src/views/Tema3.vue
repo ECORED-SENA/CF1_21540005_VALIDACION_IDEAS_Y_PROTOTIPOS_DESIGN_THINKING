@@ -81,7 +81,7 @@
       .row.justify-content-center
         .col-12.col-md-8
           .bgr_2.p-4.position-relative
-            p.text-center Realizar la validación de la sesión hace parte de la metodología, porque permite alinear expectativas generando empatía entre ambas partes
+            p.text-center Realizar la validación de la sesión hace parte de la metodología, porque permite alinear expectativas generando empatía entre ambas partes.
             img.pst_4(src='@/assets/curso/tema3/t3-10.svg', alt='Texto que describa la imagen')
     separador
 
@@ -101,20 +101,20 @@
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/tema3/t3-12.svg' alt='AvatarTop')
-        p.text-bold Anfitrión
-        p.mb-0 Es el encargado de liderar y guiar la sesión de acuerdo a los objetivos, teniendo en cuenta la premisa de propiciar un ambiente abierto a la generación de ideas. 
+        p.text-bold Moderador
+        p.mb-0 Su principal objetivo es garantizar que todos los participantes puedan aportar su opinión de manera abierta y respetuosa.  
       .col-md-6.col-lg.bgr_15.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/tema3/t3-13.svg' alt='AvatarTop')
-        p.text-bold Anfitrión
-        p.mb-0 Es el encargado de liderar y guiar la sesión de acuerdo a los objetivos, teniendo en cuenta la premisa de propiciar un ambiente abierto a la generación de ideas. 
+        p.text-bold Encargado de materiales
+        p.mb-0 Su función es velar por la disponibilidad de todos los instrumentos necesarios para el correcto desarrollo de la sesión, ya sean herramientas tecnológicas y/o físicas. 
       .col-md-6.col-lg.bgr_28.p-5(data-aos="flip-right")
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/tema3/t3-14.svg' alt='AvatarTop')
-        p.text-bold Anfitrión
-        p.mb-0 Es el encargado de liderar y guiar la sesión de acuerdo a los objetivos, teniendo en cuenta la premisa de propiciar un ambiente abierto a la generación de ideas. 
+        p.text-bold Encargado de transcripción y manejo del tiempo
+        p.mb-0 Su tarea es la correcta gestión documental de la sesión con el fin de llegar a conclusiones. 
     
     separador
 

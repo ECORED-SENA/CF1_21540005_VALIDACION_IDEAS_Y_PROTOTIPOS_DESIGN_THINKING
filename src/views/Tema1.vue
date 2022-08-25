@@ -30,7 +30,7 @@
     .row.mb-5.justify-content-center
       .col-12.col-md-10
         .bgr_3.px-4.py-5.mb-5.position-relative(data-aos="zoom-out")
-          p.text-bold El desarrollo de prototipos se define como el proceso de preparación de un dispositivo, técnica o sistema que demuestra la viabilidad de una solución a un problema 
+          p.text-bold El desarrollo de prototipos se define como el proceso de preparación de un dispositivo, técnica o sistema que demuestra la viabilidad de una solución a un problema. 
           p.mb-0 - Reiser y Anbar, 1984. 
           figure.pst
             img.img30(src='@/assets/curso/tema1/t1-2.svg', alt='Texto que describa la imagen')
@@ -219,7 +219,7 @@
         .col-12.col-md-10
           .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down-right")
             h5 Figura 7.
-            span Prototipo de fidelidad alta
+            span Ejemplo de prototipo tangible de alta fidelidad
 
     
       SlyderF.mb-5.pst_2(columnas="col-lg-12 col-xl-12")(data-aos="zoom-out")
@@ -411,7 +411,7 @@
                   td.bgr_21.text-center Muy Bajo
                   td.bgr_21.text-center Muy rápido
                 tr.bgr_18
-                  th.bgr_22 Storyboard
+                  th.bgr_22 <em>Storyboard</em>
                   td.bgr_21 • Reflejo del contexto.
                     br
                     span • Descripción del proceso de interacción.
@@ -434,7 +434,7 @@
                   th.bgr_22 Maqueta
                   td.bgr_21 • Reflejo de su utilización.
                     br
-                    span • Visibilidad de funciones.
+                    span • Reflejo de características físicas.
                   td.bgr_21.text-center Relativamente bajo
                   td.bgr_21.text-center No tan rápido
                 tr.bgr_23
