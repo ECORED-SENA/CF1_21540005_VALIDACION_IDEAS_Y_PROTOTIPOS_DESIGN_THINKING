@@ -358,12 +358,6 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Validación de Maquetación',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
         nombre: 'Yuli Marcela Gómez Tarazona ',
         cargo: 'Validación de contenido',
         centro:
