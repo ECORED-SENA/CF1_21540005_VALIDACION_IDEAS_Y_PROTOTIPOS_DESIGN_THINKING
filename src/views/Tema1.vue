@@ -241,7 +241,7 @@
         h4.text-center Ventajas
         p ● La familiaridad que le brindan al usuario, lo que permite que su comportamiento sea más natural durante las pruebas de interacción.
         p ● La identificación de puntos específicos a intervenir para obtener comentarios detallados sobre elementos del diseño que no serían fácilmente transmisibles a través del lápiz y papel.
-        p ● La fidelidad puede servir también como herramientas de marketing para demostraciones y proyecciones de ventas, para comunicar las ideas de manera más objetiva y efectiva a los tomadores de decisiones.
+        p ● La fidelidad puede servir también como herramientas de <em>marketing</em> para demostraciones y proyecciones de ventas, para comunicar las ideas de manera más objetiva y efectiva a los tomadores de decisiones.
       .col-12.col-md-5.bgr_17.p-4(data-aos="fade-left")
         figure.d-flex.justify-content-center.mb-3
           img.img160(src='@/assets/curso/tema1/t1-22.svg', alt='Texto que describa la imagen')
@@ -299,7 +299,7 @@
             p.text-bold.text-center Prototipos físicos de más alta fidelidad
             figure.mb-5
               img(src='@/assets/curso/tema1/t1-16.png', alt='Texto que describa la imagen')
-            p Es común utilizar equipos y software especializados en la creación de modelos tridimensionales, cortes e impresiones por control numérico y manufactura aditiva como la impresión 3D. 
+            p Es común utilizar equipos y <em>software</em> especializados en la creación de modelos tridimensionales, cortes e impresiones por control numérico y manufactura aditiva como la impresión 3D. 
     
     separador
 

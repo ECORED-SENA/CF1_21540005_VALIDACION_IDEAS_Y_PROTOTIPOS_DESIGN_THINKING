@@ -150,7 +150,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/t2-9.png')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 También es importante dejar por escrito si el proyecto ha iterado durante su desarrollo, es decir, ha tenido que regresar a alguna de las etapas anteriores para refinar detalles y cuales han sido las conclusiones obtenidas.
+        p.mb-0 También es importante dejar por escrito si el proyecto ha iterado durante su desarrollo, es decir, ha tenido que regresar a alguna de las etapas anteriores para refinar detalles y cuáles han sido las conclusiones obtenidas.
 
 
     
