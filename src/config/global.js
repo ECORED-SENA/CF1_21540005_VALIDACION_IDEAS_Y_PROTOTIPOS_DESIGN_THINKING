@@ -191,6 +191,11 @@ export default {
         titulo: 'Glosario',
       },
       {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
+      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -207,6 +212,22 @@ export default {
       },
     ],
   },
+  complementario: [
+    {
+      tema: '<em>Design Thinking</em>',
+      referencia:
+        '<em>Design Thinking</em> España. (2020). Metodología <em>Design Thinking</em>. ¡Aprende a aplicar sus fases con ejemplos!',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=_ul3wfKss58&t=314s',
+    },
+    {
+      tema: 'Concepto de prototipado',
+      referencia:
+        '<em>iLab</em>. (2021). Prototipo de servicio: qué es y cómo construir uno para tu negocio.',
+      tipo: 'Blog',
+      link: 'https://ilab.net/prototipo-de-servicio/',
+    },
+  ],
   glosario: [
     {
       termino: 'Interfaz',
